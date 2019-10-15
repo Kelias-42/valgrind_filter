@@ -7,8 +7,9 @@ It will run valgrind --leak-check=full --show-leak-kinds=all and will ignore iss
 For this script to work properly, you have to use the -g3 flag while compiling your program with gcc.
 
 
-Ex: gcc -g3 your_program.c
+Example:
 
+    gcc -g3 your_program.c
     sh valgrind_filter.sh a.out
     
     
