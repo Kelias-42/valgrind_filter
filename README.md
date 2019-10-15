@@ -14,4 +14,5 @@ Example:
     
     
 Note that it is possible to add arguments to your program while using the script.
+
 Launch the script without any argument for usage.
